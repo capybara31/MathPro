@@ -1,0 +1,7 @@
+{
+  "name": "TeleBridge Pro",
+  "description": "A sophisticated dashboard to manage and publish content to your Telegram channels via bot integration, featuring AI-powered caption generation and secure local storage for credentials.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
